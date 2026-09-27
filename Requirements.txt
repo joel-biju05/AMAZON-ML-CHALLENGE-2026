@@ -1,0 +1,13 @@
+# Core numerical and data processing libraries
+numpy>=1.21.0,<2.0.0
+pandas>=1.3.0,<3.0.0
+
+# Machine learning & modeling
+scikit-learn>=1.0.0
+lightgbm>=3.3.0
+
+# High-performance string similarity calculations
+rapidfuzz>=3.0.0
+
+# System memory monitoring and dynamic auto-tuning
+psutil>=5.8.0
